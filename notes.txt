@@ -1,1 +1,6 @@
+// install react stuff:
 npm install -g react-cli react
+
+First, install the global package:
+
+npm install -g create-react-app
